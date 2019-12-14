@@ -5,7 +5,7 @@ description: >-
   plataforma.
 ---
 
-# Configuración del entorno de trabajo
+# Oracle SQL y PL/SQL
 
 ## Oracle Live SQL
 
@@ -21,7 +21,7 @@ Para darnos de alta en esta plataforma accederemos a la url [https://livesql.ora
 
 ![Login en Oracle Live SQL](.gitbook/assets/signonoraclelivesql.png)
 
-A continuación verificaremos nuestro e-mail, aceptaremos las condiciones y estaremos en disposición de utilizar nuestra base de datos.
+A continuación verificaremos nuestro correo electrónico, aceptaremos las condiciones y estaremos en disposición de utilizar nuestra base de datos.
 
 Esta base de datos viene con unos cuantos esquemas de ejemplo que podemos utilizar para nuestras consultas, además hay un esquema vacío "**My Schema**" donde podremos crear nuestros objetos de base de datos.
 
@@ -42,4 +42,10 @@ A través de esta página podremos:
 * Guardar los scripts que vayamos generando.
 
 ![](.gitbook/assets/oraclelivesqlworksheet.png)
+
+### Schema
+
+En esta página podremos ver los esquemas definidos en la base de datos y explorar todos los objetos que se encuentran en ella.
+
+Accederemos a ella para tener una visión global de un esquema, además podremos 
 
