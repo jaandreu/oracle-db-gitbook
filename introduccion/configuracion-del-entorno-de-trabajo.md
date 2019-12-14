@@ -25,7 +25,7 @@ A continuación verificaremos nuestro correo electrónico, aceptaremos las condi
 
 Esta base de datos viene con unos cuantos esquemas de ejemplo que podemos utilizar para nuestras consultas, además hay un esquema vacío "**My Schema**" donde podremos crear nuestros objetos de base de datos.
 
-![Esquemas de ejemplo de Oracle Live SQL](.gitbook/assets/oraclelivesqlschemas.png)
+![Esquemas de ejemplo de Oracle Live SQL](/.gitbook/assets/oraclelivesqlschemas.png)
 
 ## Entorno
 
@@ -41,7 +41,7 @@ A través de esta página podremos:
 * Ver los resultados de nuestras consultas.
 * Guardar los scripts que vayamos generando.
 
-![](.gitbook/assets/oraclelivesqlworksheet.png)
+![](/.gitbook/assets/oraclelivesqlworksheet.png)
 
 ### Schema
 
