@@ -13,7 +13,7 @@ Oracle Live SQL es una plataforma que Oracle pone a nuestra disposición de mane
 
 En esta plataforma hay compartidos scripts y tutoriales que podemos consultar y ejecutar sobre una base de datos **Oracle Database 19c**.
 
-![Plataforma Oracle Live SQL](.gitbook/assets/oraclelivesql.png)
+![Plataforma Oracle Live SQL](/.gitbook/assets/oraclelivesql.png)
 
 ## Alta en la plataforma
 
