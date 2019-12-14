@@ -19,7 +19,7 @@ En esta plataforma hay compartidos scripts y tutoriales que podemos consultar y 
 
 Para darnos de alta en esta plataforma accederemos a la url [https://livesql.oracle.com](https://livesql.oracle.com/) y haremos login en la misma, es necesario contar con una cuenta de Oracle, si no tenemos una, tendremos que crearla.
 
-![Login en Oracle Live SQL](.gitbook/assets/signonoraclelivesql.png)
+![Login en Oracle Live SQL](/.gitbook/assets/signonoraclelivesql.png)
 
 A continuación verificaremos nuestro correo electrónico, aceptaremos las condiciones y estaremos en disposición de utilizar nuestra base de datos.
 
