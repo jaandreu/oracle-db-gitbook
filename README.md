@@ -27,7 +27,19 @@ Esta base de datos viene con unos cuantos esquemas de ejemplo que podemos utiliz
 
 ![Esquemas de ejemplo de Oracle Live SQL](.gitbook/assets/oraclelivesqlschemas.png)
 
+## Entorno
 
+En este apartado explicaremos las secciones de la plataforma que utilizaremos durante el curso.
 
+### SQL Worksheet
 
+SQL Worksheet lo utilizaremos para ejecutar las consultas sobre la base de datos. 
+
+A través de esta página podremos:
+
+* Escribir y ejecutar sentencias SQL sobre el esquema seleccionado.
+* Ver los resultados de nuestras consultas.
+* Guardar los scripts que vayamos generando.
+
+![](.gitbook/assets/oraclelivesqlworksheet.png)
 
