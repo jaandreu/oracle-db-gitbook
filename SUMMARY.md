@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Configuración del entorno de trabajo](README.md)
 
