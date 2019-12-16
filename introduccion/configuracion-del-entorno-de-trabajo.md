@@ -49,5 +49,7 @@ A través de esta página podremos:
 
 En esta página podremos ver los esquemas definidos en la base de datos y explorar todos los objetos que se encuentran en ella.
 
-Accederemos a ella para tener una visión global de un esquema, además podremos
+Accederemos a ella para tener una visión global de los objectos que forman parte de un esquema en concreto.
+
+Podemos entrar en cada objeto creado y ver sus elementos.
 
